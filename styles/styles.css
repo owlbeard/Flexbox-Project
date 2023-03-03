@@ -147,6 +147,7 @@ img.socials {
 
 .hero-button {
   width: 110px;
+  padding: 5px 10px;
   border: none;
   border-radius: 8px;
   background-color: #3882F6;
