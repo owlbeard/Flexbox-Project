@@ -65,6 +65,8 @@ body {
   width: 500px;
   height: 350px;
   margin-left: 20px;
+  border: none;
+  border-radius: 8px;
 }
 
 .cards {
