@@ -118,7 +118,7 @@ img.socials {
   align-items: center;
   flex: 0;
   background-color: #e5e7eb;
-  padding: 0 300px;
+  padding: 0 400px;
   font-weight: lighter;
   font-size: 36px;
 }
@@ -126,8 +126,9 @@ img.socials {
 .author {
   display: flex;
   align-items: flex-end;
-  padding-left: 700px;
+  padding-left: 750px;
   font-weight: bold;
+  margin-top: 0;
 }
 
 .promo {
